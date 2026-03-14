@@ -1,0 +1,71 @@
+# Python cache
+
+**pycache**/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+
+env/
+venv/
+ENV/
+.venv/
+
+# Jupyter Notebook
+
+.ipynb_checkpoints
+
+# Data files (large datasets)
+
+data/
+datasets/
+*.csv
+*.xlsx
+*.json
+
+# Model files
+
+*.h5
+*.pkl
+*.joblib
+*.pt
+*.pth
+
+# Logs
+
+logs/
+*.log
+
+# Mac system files
+
+.DS_Store
+
+# VS Code
+
+.vscode/
+
+# PyCharm
+
+.idea/
+
+# Python distribution / packaging
+
+build/
+dist/
+*.egg-info/
+
+# Environment variables
+
+.env
+.env.*
+
+# Coverage reports
+
+htmlcov/
+.coverage
+.coverage.*
+
+# Temporary files
+
+*.tmp
+*.temp
